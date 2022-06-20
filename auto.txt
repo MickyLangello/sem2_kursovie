@@ -1,0 +1,79 @@
+Alfa Romeo Giulia
+Италия
+2019
+5000000
+
+Toyota Corolla
+Турция
+2018
+1173000
+
+Toyota Supra
+Австрия
+2013
+4534000
+
+Ford Capri
+США
+2016
+300000
+
+FIAT Doblo
+Турция
+2015
+1189000
+
+BMW 2-series
+Турция
+2014
+1990000
+
+BMW X7
+США
+2017
+6310000
+
+Lexus ES
+Япония
+2012
+2690000
+
+Renault Dokker
+Россия
+2011
+904990
+
+Mazda 3 Sedan
+Япония
+2010
+1570000
+
+Cadillac CT6
+США
+2007
+4850000
+
+Skoda Octavia
+Россия
+2006
+1119000
+
+Hyundai Elantra
+Россия
+2005
+1084000
+
+Subaru XV
+Япония
+2003
+1709000
+
+Nissan Juke
+Великобритания
+2004
+1150000
+
+Lada Vesta седан
+Россия
+2002
+562410
